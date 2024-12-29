@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Joyan 👋
 
-<!--
-**Joyan9/Joyan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 I’m currently learning advanced data structures and algorithms.
+- 👯 I’m looking to collaborate on open source projects related to web development and machine learning.
+- 💬 Ask me about Python, JavaScript, and Docker.
+- 📫 How to reach me: [joyansbhathena@gmail.com](mailto:joyansbhathena@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+## 🚀 Projects
+Here are a few projects I've been working on:
+
+### [Project 1: Web Scraper](https://github.com/Joyan9/web-scraper)
+A Python-based web scraper to extract data from websites.
+
+### [Project 2: Portfolio Website](https://github.com/Joyan9/portfolio-website)
+A personal portfolio website built with HTML, CSS, and JavaScript.
+
+### [Project 3: Machine Learning Model](https://github.com/Joyan9/ml-model)
+A machine learning model to predict house prices using TensorFlow.
+
+## 📫 Connect with Me
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you want to collaborate on any projects.
