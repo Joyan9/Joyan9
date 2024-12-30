@@ -11,7 +11,10 @@ Welcome to my GitHub profile!
 - How to reach me: [joyansbhathena@gmail.com](mailto:joyansbhathena@gmail.com)
 
 ## 🛠️ Technologies & Tools
-
+- Python, SQL, JavaScript
+- Apache Spark, Apache Flink
+- Azure Data Factory, Azure Databricks, Synapse Analytics, BigQuery
+- Looker Studio, Power BI
 ## 🚀 Projects
 Here are a few projects I've been working on:
 
