@@ -6,7 +6,6 @@ Welcome to my GitHub profile!
 - Currently a Masters of Computer Science student at IU Berlin
 - Over 2+ years experience as analytics consultant
 - Strong passion for learning and acquiring knowledge
-- I'll not only be the hardest worker in the room, but also the smartest
 - Check out my resume here - [Resume Link](https://www.canva.com/design/DAGY1eJb7rY/cPs-aLqBOfumz6LUDhIZQg/view?utm_content=readme&utm_campaign=github&utm_medium=link2&utm_source=uniquelinks&utlId=h1b77caee1a)
 - How to reach me: [joyansbhathena@gmail.com](mailto:joyansbhathena@gmail.com)
 
