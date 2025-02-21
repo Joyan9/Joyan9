@@ -6,7 +6,6 @@ Welcome to my GitHub profile!
 - Currently a Masters of Computer Science student at IU Berlin
 - Over 2+ years experience as analytics consultant
 - Strong passion for learning and acquiring knowledge
-- Check out my resume here - [Resume Link](https://www.canva.com/design/DAGY1eJb7rY/cPs-aLqBOfumz6LUDhIZQg/view?utm_content=readme&utm_campaign=github&utm_medium=link2&utm_source=uniquelinks&utlId=h1b77caee1a)
 - How to reach me: [joyansbhathena@gmail.com](mailto:joyansbhathena@gmail.com)
 
 ## 🛠️ Technologies & Tools
@@ -27,12 +26,13 @@ Here are a few projects I've been working on:
 - Highlighted pricing and service enhancement opportunities
 - Developed actionable recommendations for business growth
 
-### [Project 2: End-to-end Data Pipeline in Azure Cloud](https://github.com/Joyan9/adventure-works-azure-data-engineering-project)
-- Created an automated, end-to-end data pipeline using Azure Data Factory (ADF) and Databricks, following the Medallion Architecture to organize data strategically within a data lake.
-- Within Azure Data Factory, fetched data from on-premise SQL server, leveraged Key Vault to access the database securely.
-- Used ForEach, LookUp and CopyData activities in ADF. Stored data in Bronze layer.
-- Performed data transformations using Azure Databricks then stored the data in Silver Layer.
-- Created the final dataset for easy querying and stored it in Gold layer which could then be used by other downstream stakeholders.
+### [Project 2: BVG M13 Tram Data Engineering Project](https://github.com/Joyan9/bvg-open-data-project/tree/main)
+- Technologies Used: Python (DuckDB), SQL, AWS EC2, AWS S3, Parquet
+- Created a data pipeline to collect and analyze data for Berlin tram line M13
+- Extracted data using BVG REST API and filtered as the requirements
+- Used Python for the Extract and Load (EL) process
+- Loaded the results as parquet files into a S3 bucket
+- Scheduled the job on an EC2 instance using the Crontab scheduler.
 
 ## 📫 Connect with Me
 - LinkedIn: [linkedin.com/in/joyan-bhathena](https://www.linkedin.com/in/joyan-bhathena/)
