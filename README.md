@@ -14,7 +14,6 @@ Welcome to my GitHub profile!
 - Looker Studio, Power BI
   
 ## 🚀 Projects
-Here are a few projects I've been working on:
 
 ### [Cab Service Data Analysis Project](https://github.com/Joyan9/good_cabs_analysis)
 - Technologies Used: Excel, SQL, Google Sheets, Looker Studio, Canva
@@ -34,7 +33,7 @@ Here are a few projects I've been working on:
 - Loaded the results as parquet files into a S3 bucket
 - Scheduled the job on an EC2 instance using the Crontab scheduler.
 
-### [Dress-Weatherly]([https://github.com/Joyan9/Dress-Weatherly](https://github.com/Joyan9/Dress-Weatherly))
+### [Dress-Weatherly](https://github.com/Joyan9/Dress-Weatherly)
 - Fetches hourly weather forecasts from the Open-Meteo API
 - Suggests clothing items for morning, daytime, and evening
 - Adds weather-specific accessories like umbrellas, sunglasses, or windbreakers
