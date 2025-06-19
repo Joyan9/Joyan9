@@ -14,6 +14,15 @@ Welcome to my GitHub profile!
 - Looker Studio, Power BI
   
 ## 🚀 Projects
+### [Kisan Call Centre (KCC) Data Processing Pipeline](https://github.com/Joyan9/kcc-farmer-queries-pipeline)
+- Technologies Used: Python, Apache Spark, Docker, dlt, DuckDB, Jupyter Lab
+- Designed and implemented a scalable microservices-based data pipeline to process 9+ million farmer query records from India's Kisan Call Centre API.
+- Four core services:
+  - data ingestion using DLT for incremental/backfill loads
+  - Spark-based processing transforming raw data into star schema
+  - interactive analytics dashboards
+  - comprehensive testing suite
+- Containerized architecture handles high-volume batch processing with configurable data limits and API integration. 
 
 ### [Cab Service Data Analysis Project](https://github.com/Joyan9/good_cabs_analysis)
 - Technologies Used: Excel, SQL, Google Sheets, Looker Studio, Canva
