@@ -3,14 +3,20 @@
 Welcome to my GitHub profile!
 
 ## About Me
-- Currently a Masters of Computer Science student at IU Berlin
-- Over 2+ years experience as analytics consultant
-- Strong passion for learning and acquiring knowledge
+- Data Analyst with a Master’s in Computer Science and hands-on experience transforming complex data into business impact  
+- At **DataVinci**, built automated dashboards and data pipelines that:
+  - Increased client ROAS by 20%
+  - Significantly reduced infrastructure costs  
+- At **AUTO1 Group**, bridged business and technical teams to:
+  - Automate workflows
+  - Streamline operational processes  
+- Currently seeking full-time opportunities as a **Data Analyst** or **Analytics Engineer**
+
+
   
 ## 🛠️ Technologies & Tools
 - Python, SQL, JavaScript
-- Apache Spark, Apache Flink
-- Azure Data Factory, Azure Databricks, Synapse Analytics, BigQuery
+- BigQuery, dbt
 - Looker Studio, Power BI
   
 ## 🚀 Projects
@@ -55,4 +61,4 @@ Welcome to my GitHub profile!
 ## 📫 Connect with Me
 - LinkedIn: [linkedin.com/in/joyan-bhathena](https://www.linkedin.com/in/joyan-bhathena/)
 
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you want to collaborate on any projects.
+
